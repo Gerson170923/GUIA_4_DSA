@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'tahoma';
+    position: static;
+    text-align: center;
+    border: 10px solid #663366;
+    margin: 0px;
+    color: #000;
+}
+h4 {
+    font-family: 'tahoma';
+    position: static;
+    text-align: center;
+    border:#663366 5px;
+    margin: 0px;
+    color: #000;
+}
+img {
+    position: initial;
+    width: 299px;
+    height: 200px;  
+    padding-left: 1ch;
+}   

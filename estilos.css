@@ -1,0 +1,40 @@
+/* Ejercicio 3 */
+body.eje3 {
+    background-color: #ff0000;
+}
+p.eje3 {
+    font-family: ´Tahoma´;
+    font-size: 24px;
+    font-style: bold;
+    text-align: center;
+}
+/* Ejercicio 4 */
+body.eje4 {
+    background-color: #ff0000;
+}
+p.eje4 {
+    font-family: ´Tahoma´;
+    font-size: 24px;
+    font-style: bold;
+    text-align: center;
+}
+/* Ejercicio 5 */
+body.eje5 {
+    background-color: #ff0000; /* define color de fondo */
+}
+p.eje5 {
+    font-family: ´Tahoma´; /* define una fuente */
+    font-size: 24px; /* define el tamaño de 24 pixeles */
+    font-style: inherit; /* define el tamaño en negrita */
+    text-align: center; /* define aliniacion centrada de texto */
+}
+
+body.eje5 {
+    background-color: #ff0000; 
+}
+p.eje5 {
+    /* font-family: ´Tahoma´;  */
+     /* font-size: 24px; */
+    font-style: inherit; 
+    text-align: center; 
+}
